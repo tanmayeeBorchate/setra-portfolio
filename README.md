@@ -34,3 +34,7 @@ See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rule
 
 ## SETRA Step 1
 Visual-only redesign based on the last known working project. The application structure and routes are intentionally unchanged. Beige/cream surfaces are replaced with a blue-cyan-green aquatic visual system.
+
+
+
+SETRA Portfolio
